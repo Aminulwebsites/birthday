@@ -78,7 +78,7 @@ var w = c.width = window.innerWidth,
     hh = h / 2,
 
     opts = {
-            strings: ["HAPPY", "BIRTHDAY!", "DEAR"],
+            strings: ["HAPPY", "BIRTHDAY!", "@NIKKI___520"],
                     charSize: getResponsiveCharSize(w, h),
                     charSpacing: getResponsiveCharSpacing(w, h),
                     lineHeight: getResponsiveLineHeight(w, h),
